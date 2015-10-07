@@ -26,4 +26,4 @@ while True:
     
     list_numbers.append(number)
 
-print max , min, np.mean(list_numbers)
+print sum(list_numbers), np.size(list_numbers), np.mean(list_numbers)
